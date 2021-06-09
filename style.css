@@ -1,0 +1,81 @@
+#main {
+  
+}
+
+h1 {
+  color: #145A32;
+  font-family: 'Roboto', sans-serif;
+  font-size: 40px;
+}
+
+h2 {
+  color: #145A32;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+}
+
+h3 {
+  color: #212F3D;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+  text-indent: 50px;
+  text-align: justify;
+}
+
+h4 {
+  color: #212F3D;
+  font-family: 'Roboto', sans-serif;
+}
+
+#title {
+  text-align: center;
+}
+
+#tribute-info {
+  text-align: center;
+}
+
+#header-rectangle {
+  background-color: #F9E79F;
+  margin: 25px 50px 25px 100px;
+  /*Query: Why the padding changes so much between 1px and 0px?*/
+  padding: 1px 20px 1px 20px;
+}
+
+#img-div {
+  
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#img-caption {
+  text-align: center;
+}
+
+#body-rectangle {
+  background-color: #F9E79F;
+  margin: 25px 50px 25px 100px;
+  padding: 2px 20px 15px 20px;;
+}
+
+#quote {
+  text-align: center;
+  text-indent: 0px;
+}
+
+footer {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  color: #212F3D;
+}
+
+#tribute-link {
+  
+}
